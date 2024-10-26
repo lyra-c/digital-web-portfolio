@@ -22,6 +22,8 @@ i.icono-boton {
 	margin-bottom: 1rem;
 }
 
+
+
 .tagger {
 	font-size: 1.5rem;
 	font-weight: lighter;
@@ -634,7 +636,7 @@ a.rotate-box-1:hover, a.rotate-box-2:hover {
 	opacity:1;
 }
 .portfolio_single_content div a{
-	color: #FFFFFF;
+	color: #FFC000;
 	display: block;
 	font-size: 18px;
 	font-weight: bold;
@@ -651,6 +653,11 @@ a.rotate-box-1:hover, a.rotate-box-2:hover {
 	padding: 0;
 	text-transform: uppercase;
 }
+
+.portfolio_single_content div a.github {
+	color: #21c2f8;
+}
+
 .portfolio_content{}
 .portfolio_content{
     margin-top: 36px;
